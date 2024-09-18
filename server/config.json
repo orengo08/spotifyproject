@@ -1,0 +1,14 @@
+{
+    "rds_host": "spotify.c50i62yewv8d.us-east-2.rds.amazonaws.com",
+    "rds_port": "3306",
+    "rds_user": "admin",
+    "rds_password": "Lipstick2901!",
+    "rds_db": "Spotify",
+    "server_host": "localhost",
+    "server_port": "8080"
+  }
+
+
+  
+
+  
